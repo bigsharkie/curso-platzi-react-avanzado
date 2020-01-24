@@ -1,0 +1,9 @@
+{
+    "prettier.jsxSingleQuote": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": false,
+    "html.mirrorCursorOnMatchingTag": true
+}
